@@ -1,0 +1,15 @@
+C:\Nesnetabanlıprogramlamaders\infcsIComporablEOOP\infcsIComporablEOOP\bin\Debug\net6.0\infcsIComporablEOOP.exe
+C:\Nesnetabanlıprogramlamaders\infcsIComporablEOOP\infcsIComporablEOOP\bin\Debug\net6.0\infcsIComporablEOOP.deps.json
+C:\Nesnetabanlıprogramlamaders\infcsIComporablEOOP\infcsIComporablEOOP\bin\Debug\net6.0\infcsIComporablEOOP.runtimeconfig.json
+C:\Nesnetabanlıprogramlamaders\infcsIComporablEOOP\infcsIComporablEOOP\bin\Debug\net6.0\infcsIComporablEOOP.dll
+C:\Nesnetabanlıprogramlamaders\infcsIComporablEOOP\infcsIComporablEOOP\bin\Debug\net6.0\infcsIComporablEOOP.pdb
+C:\Nesnetabanlıprogramlamaders\infcsIComporablEOOP\infcsIComporablEOOP\obj\Debug\net6.0\infcsIComporablEOOP.csproj.AssemblyReference.cache
+C:\Nesnetabanlıprogramlamaders\infcsIComporablEOOP\infcsIComporablEOOP\obj\Debug\net6.0\infcsIComporablEOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nesnetabanlıprogramlamaders\infcsIComporablEOOP\infcsIComporablEOOP\obj\Debug\net6.0\infcsIComporablEOOP.AssemblyInfoInputs.cache
+C:\Nesnetabanlıprogramlamaders\infcsIComporablEOOP\infcsIComporablEOOP\obj\Debug\net6.0\infcsIComporablEOOP.AssemblyInfo.cs
+C:\Nesnetabanlıprogramlamaders\infcsIComporablEOOP\infcsIComporablEOOP\obj\Debug\net6.0\infcsIComporablEOOP.csproj.CoreCompileInputs.cache
+C:\Nesnetabanlıprogramlamaders\infcsIComporablEOOP\infcsIComporablEOOP\obj\Debug\net6.0\infcsIComporablEOOP.dll
+C:\Nesnetabanlıprogramlamaders\infcsIComporablEOOP\infcsIComporablEOOP\obj\Debug\net6.0\refint\infcsIComporablEOOP.dll
+C:\Nesnetabanlıprogramlamaders\infcsIComporablEOOP\infcsIComporablEOOP\obj\Debug\net6.0\infcsIComporablEOOP.pdb
+C:\Nesnetabanlıprogramlamaders\infcsIComporablEOOP\infcsIComporablEOOP\obj\Debug\net6.0\infcsIComporablEOOP.genruntimeconfig.cache
+C:\Nesnetabanlıprogramlamaders\infcsIComporablEOOP\infcsIComporablEOOP\obj\Debug\net6.0\ref\infcsIComporablEOOP.dll
